@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Station2
+</name>
+</assembly>
+<members>
+<member name="E:Station2.Module1.Datareceived">
+	<summary>
+ Event data send back to calling form
+ </summary>
+</member><member name="E:Station2.Module1.connection">
+	<summary>
+ connection status back to form True: ok
+ </summary>
+</member><member name="E:Station2.Module1.sendOK">
+	<summary>
+ data send successfull (True)
+ </summary>
+</member><member name="E:Station2.Module1.recOK">
+	<summary>
+ data receive successfull (True)
+ </summary>
+</member><member name="P:Station2.Module1.Remote">
+	<summary>
+ reads endpoints
+ </summary>
+</member><member name="P:Station2.Module1.Local">
+	<summary>
+ reads local point
+ </summary>
+</member><member name="M:Station2.Module1.connect(System.String,System.Int32)">
+	<summary>
+ TCP connect with server
+ </summary>
+</member><member name="M:Station2.Module1.disconnect">
+	<summary>
+ disConnect server
+ </summary>
+</member><member name="M:Station2.Module1.SendData(System.String,System.String,System.Int32)">
+	<summary>
+ TCP send data
+ </summary>
+</member><member name="M:Station2.Module1.DoAccept(System.IAsyncResult)">
+	<summary>
+ TCP asynchronous receive on secondary thread
+ last update 10.5.2011
+ </summary>
+</member><member name="E:Station2.ClassListener.Datareceived">
+	<summary>
+ Event data send back to calling form
+ </summary>
+</member><member name="E:Station2.ClassListener.connection">
+	<summary>
+ connection status back to form True: ok
+ </summary>
+</member><member name="E:Station2.ClassListener.sendOK">
+	<summary>
+ data send successfull (True)
+ </summary>
+</member><member name="E:Station2.ClassListener.recOK">
+	<summary>
+ data receive successfull (True)
+ </summary>
+</member><member name="P:Station2.ClassListener.Remote">
+	<summary>
+ reads endpoints
+ </summary>
+</member><member name="P:Station2.ClassListener.Local">
+	<summary>
+ reads local point
+ </summary>
+</member><member name="M:Station2.ClassListener.connect(System.String,System.Int32)">
+	<summary>
+ TCP connect with server
+ </summary>
+</member><member name="M:Station2.ClassListener.disconnect">
+	<summary>
+ disConnect server
+ </summary>
+</member><member name="M:Station2.ClassListener.SendData(System.String,System.String,System.Int32)">
+	<summary>
+ TCP send data
+ </summary>
+</member><member name="M:Station2.ClassListener.DoAccept(System.IAsyncResult)">
+	<summary>
+ TCP asynchronous receive on secondary thread
+ last update 10.5.2011
+ </summary>
+</member><member name="M:Station2.UNCAccessWithCredentials.#ctor">
+	<summary>
+ A disposeable class that allows access to a UNC resource with credentials.
+ </summary>
+</member><member name="P:Station2.UNCAccessWithCredentials.LastError">
+	<summary>
+ The last system error code returned from NetUseAdd or NetUseDel.  Success = 0
+ </summary>
+</member><member name="M:Station2.UNCAccessWithCredentials.NetUseWithCredentials(System.String,System.String,System.String,System.String)">
+	<summary>
+ Connects to a UNC path using the credentials supplied.
+ </summary>
+	<param name="UNCPath">Fully qualified domain name UNC path</param>
+	<param name="User">A user with sufficient rights to access the path.</param>
+	<param name="Domain">Domain of User.</param>
+	<param name="Password">Password of User</param>
+	<returns>True if mapping succeeds.  Use LastError to get the system error code.</returns>
+</member><member name="M:Station2.UNCAccessWithCredentials.NetUseDelete">
+	<summary>
+ Ends the connection to the remote resource 
+ </summary>
+	<returns>True if it succeeds.  Use LastError to get the system error code</returns>
+</member><member name="P:Station2.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Station2.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Station2.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

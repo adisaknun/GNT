@@ -1,0 +1,62 @@
+D:\My_Project\GTN\bin\Debug\Station2.exe.config
+D:\My_Project\GTN\bin\Debug\Station2.exe
+D:\My_Project\GTN\bin\Debug\Station2.pdb
+D:\My_Project\GTN\bin\Debug\Station2.xml
+D:\My_Project\GTN\bin\Debug\AxInterop.GNTCOMMWEB.dll
+D:\My_Project\GTN\bin\Debug\Interop.GNTCOMMWEB.dll
+D:\My_Project\GTN\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Project\GTN\obj\Debug\Station2.Form1.resources
+D:\My_Project\GTN\obj\Debug\Station2.Log_IN.resources
+D:\My_Project\GTN\obj\Debug\Station2.MainPrintBarcode.resources
+D:\My_Project\GTN\obj\Debug\Station2.Resources.resources
+D:\My_Project\GTN\obj\Debug\Station2.RePrintBarcode.resources
+D:\My_Project\GTN\obj\Debug\Station2.vbproj.GenerateResource.Cache
+D:\My_Project\GTN\obj\Debug\Station2.exe
+D:\My_Project\GTN\obj\Debug\Station2.xml
+D:\My_Project\GTN\obj\Debug\Station2.pdb
+D:\My_Project\GNT\bin\Debug\Station2.exe.config
+D:\My_Project\GNT\obj\Debug\Station2.exe
+D:\My_Project\GNT\obj\Debug\Station2.xml
+D:\My_Project\GNT\obj\Debug\Station2.pdb
+D:\My_Project\GNT\bin\Debug\Station2.exe
+D:\My_Project\GNT\bin\Debug\Station2.pdb
+D:\My_Project\GNT\bin\Debug\Station2.xml
+D:\My_Project\GNT\bin\Debug\AxInterop.GNTCOMMWEB.dll
+D:\My_Project\GNT\bin\Debug\Interop.GNTCOMMWEB.dll
+D:\My_Project\GNT\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Project\GNT\obj\Debug\Station2.Form1.resources
+D:\My_Project\GNT\obj\Debug\Station2.Log_IN.resources
+D:\My_Project\GNT\obj\Debug\Station2.MainPrintBarcode.resources
+D:\My_Project\GNT\obj\Debug\Station2.Resources.resources
+D:\My_Project\GNT\obj\Debug\Station2.RePrintBarcode.resources
+D:\My_Project\GNT\obj\Debug\Station2.vbproj.GenerateResource.Cache
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.exe.config
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.exe
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.xml
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.pdb
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Form2.resources
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Log_IN.resources
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.MainPrintBarcode.resources
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Resources.resources
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.RePrintBarcode.resources
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.vbproj.GenerateResource.Cache
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.exe
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.pdb
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.xml
+C:\Users\adisak\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.exe.config
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.xml
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Form2.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Log_IN.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.MainPrintBarcode.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.RePrintBarcode.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\obj\Debug\Station2.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\GNT\bin\Debug\Station2.xml

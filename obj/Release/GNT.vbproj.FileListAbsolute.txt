@@ -1,0 +1,16 @@
+D:\My_Project\GTN\obj\Release\ResolveAssemblyReference.cache
+D:\My_Project\GTN\obj\Release\GTN.Form1.resources
+D:\My_Project\GTN\obj\Release\GTN.Resources.resources
+D:\My_Project\GTN\obj\Release\GNT.vbproj.GenerateResource.Cache
+D:\My_Project\GTN\bin\Release\GTN.exe.config
+D:\My_Project\GTN\bin\Release\GTN.exe
+D:\My_Project\GTN\bin\Release\GTN.pdb
+D:\My_Project\GTN\bin\Release\GTN.xml
+D:\My_Project\GTN\bin\Release\AxInterop.GNTCOMMWEB.dll
+D:\My_Project\GTN\bin\Release\Interop.GNTCOMMWEB.dll
+D:\My_Project\GTN\obj\Release\GTN.Log_IN.resources
+D:\My_Project\GTN\obj\Release\GTN.MainPrintBarcode.resources
+D:\My_Project\GTN\obj\Release\GTN.exe
+D:\My_Project\GTN\obj\Release\GTN.xml
+D:\My_Project\GTN\obj\Release\GTN.pdb
+D:\My_Project\GTN\obj\Release\GTN.RePrintBarcode.resources
